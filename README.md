@@ -20,7 +20,7 @@ Construa um decodificador de texto com Javascript</h1>
 
 ## Overview
 
-![screenshot](https://github.com/joellhss/challenge-one-sprint-01/blob/main/assets/Captura%20de%20tela%20de%202022-08-08%2019-10-54.png?raw=true)
+![screenshot](https://github.com/fisiofaz/Challenge-ONE-Decodificador-de-Texto-/blob/main/img/projeto%20final.png)
 
 Este projeto foi desenvolvido com o objetivo de cumprir o desafio "Challenge ONE Sprint 01" e de praticar os conteúdos aprendidos na trilha 1: "Iniciante em Programação T4- ONE".
 
